@@ -1,3 +1,5 @@
+We just bought a Nest instead.
+
 # Pimostat
 Pi controlled HVAC
 
